@@ -23,8 +23,8 @@ Los módulos permiten reutilizar código y estandarizar la configuración de los
 
 ### Requisitos ✅
 
-- Terraform >= 1.0.0
-- Google Cloud SDK
+- Terraform CLI
+- Google Cloud CLI
 - Cuenta en Google Cloud Platform con permisos apropiados
 
 ### Configuración ⚙️
